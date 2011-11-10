@@ -1,0 +1,14 @@
+.body_image{
+  background-repeat: no-repeat;
+  border: medium none;
+  overflow: hidden;
+  padding: 0;
+  text-decoration: none !important;
+  vertical-align: middle;
+  float: left;
+  z-index: -5;
+  width: 164px;
+  height: 336px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  background: url("front_body_image.png") no-repeat top left; }
