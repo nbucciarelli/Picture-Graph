@@ -1,5 +1,7 @@
 # Picture Graph
 
+jQuery plugin to put a graph over a picture and segment it into clickable boxes. When you click the box, it will return a value.
+
 ### Usage:
 
 
